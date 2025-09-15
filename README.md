@@ -24,6 +24,7 @@ CSS3 / Tailwind (if used) – modern and responsive styling
 JavaScript (Vanilla/React) – interactive components
 
 📸 Preview
+![image alt](https://github.com/avinavkumar0045/POP-_OS-Clone/blob/main/public/POP!_OS%20home.png?raw=true)
   
 
 
