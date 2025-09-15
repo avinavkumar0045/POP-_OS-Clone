@@ -1,0 +1,4 @@
+/* Main styles for the project */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
