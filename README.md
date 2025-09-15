@@ -1,12 +1,44 @@
-# React + Vite
+🌌 POP!_OS Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully crafted clone of the POP!_OS website, built with modern web technologies to replicate the sleek design, responsiveness, and minimalistic aesthetics of the original system76 POP!_OS official site.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎨 Pixel-perfect UI inspired by POP!_OS
 
-## Expanding the ESLint configuration
+📱 Fully Responsive Design – optimized for desktop, tablet, and mobile
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ Fast & Lightweight – clean, modular code structure
+
+🌈 Modern Styling with CSS/JS
+
+🖥️ Reusable Components for easy customization
+
+
+🛠️ Tech Stack
+
+HTML5 – semantic structure
+
+CSS3 / Tailwind (if used) – modern and responsive styling
+
+JavaScript (Vanilla/React) – interactive components
+
+📸 Preview
+  
+
+
+Installation & Usage
+
+Clone the repository
+
+git clone https://github.com/avinavkumar0045/POP-_OS-Clone.git
+
+
+Navigate into the folder
+
+cd POP-_OS-Clone
+
+Run
+ npm install 
+ npm run dev
+ http://localhost:5173/ (in your browser)
